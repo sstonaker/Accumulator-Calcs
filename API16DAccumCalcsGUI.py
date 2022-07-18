@@ -5,7 +5,7 @@ getcontext().prec = 5
 
 window = Tk()
 window.title("Ideal Gas Accumulator Calcs")
-window.geometry('800x600')
+window.geometry('600x600')
 
 # Format rows for readability
 window.grid_rowconfigure(8, minsize=20)
